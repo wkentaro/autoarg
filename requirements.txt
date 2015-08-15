@@ -1,1 +1,1 @@
-docopt
+git+https://github.com/docopt/docopt.git
